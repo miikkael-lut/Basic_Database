@@ -1,5 +1,5 @@
 # Basic_Database
-SQL YouTube database project. Created with SQLite. Creates tables, explorers one to many connections, many to many connections. Creates queries. Contains figure of data model.
+SQL YouTube database project. Created with SQLite. Creates tables, explorers one to many connections, many to many connections. Creates simple and complex queries. Contains figure of data model.
 
 ## 1
 ## DEFINITION
