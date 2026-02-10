@@ -29,6 +29,7 @@ relations (PlaylistVideo). Most relationships between entities are one-to-many e
 many
 
 <img width="706" height="487" alt="image" src="https://github.com/user-attachments/assets/ac38ce72-af82-4cb7-9e37-10daeb8320ad" />
+
 Figure 1: Data model
 
 ## 3
